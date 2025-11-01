@@ -1,0 +1,12 @@
+{
+  "accuracy": 98.85,
+  "precision": 99.33,
+  "f1_score": 98.84,
+  "fpr": 0.67,
+  "tp": 21089,
+  "fp": 143,
+  "fn": 350,
+  "tn": 21296,
+  "model": "RF",
+  "hash": "2ce9302fd2b016b73fb3b0410b2a9fb9bb13bc54067b9fb227272750550a6206"
+}

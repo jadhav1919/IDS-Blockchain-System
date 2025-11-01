@@ -1,0 +1,12 @@
+{
+  "accuracy": 99.13,
+  "precision": 99.42,
+  "f1_score": 99.13,
+  "fpr": 0.57,
+  "tp": 21188,
+  "fp": 123,
+  "fn": 251,
+  "tn": 21316,
+  "model": "OT",
+  "hash": "2c6da14ab2c6a4b2634dbce0441da60c39557eec58c43fa90262c3f8dc2dc07a"
+}

@@ -1,0 +1,12 @@
+{
+  "accuracy": 96.75,
+  "precision": 98.94,
+  "f1_score": 96.67,
+  "fpr": 1.02,
+  "tp": 20262,
+  "fp": 218,
+  "fn": 1177,
+  "tn": 21221,
+  "model": "EDT",
+  "hash": "1e614a4ff3e315e970fae52f3a20f62146f6905bd6c63429f1af09d9d3e10791"
+}

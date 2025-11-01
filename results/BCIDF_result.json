@@ -1,0 +1,12 @@
+{
+  "accuracy": 98.79,
+  "precision": 99.38,
+  "f1_score": 98.79,
+  "fpr": 0.62,
+  "tp": 21054,
+  "fp": 132,
+  "fn": 385,
+  "tn": 21307,
+  "model": "BCIDF",
+  "hash": "91112320aa6793ef3b1be18a4f54a2d3ad4a5562b061c714f075285560b981a4"
+}

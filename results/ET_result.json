@@ -1,0 +1,12 @@
+{
+  "accuracy": 95.75,
+  "precision": 98.73,
+  "f1_score": 95.62,
+  "fpr": 1.19,
+  "tp": 19873,
+  "fp": 255,
+  "fn": 1566,
+  "tn": 21184,
+  "model": "ET",
+  "hash": "c8236091ac9f36e8441e944f738d76b7477a0ad77a4acd0b6ef82f475904f4bb"
+}
