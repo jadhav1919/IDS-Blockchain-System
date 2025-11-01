@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data and models
+*.npy
+*.joblib
+*.pkl
+
+# System files
+.DS_Store
+*.log
