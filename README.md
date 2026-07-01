@@ -1,4 +1,4 @@
-# Blockchain-Based Collaborative Intrusion Detection System (BCI Experiments)
+# Blockchain-Based Collaborative Intrusion Detection System 
 
 A Blockchain-integrated Intrusion Detection System (IDS) that enables multiple distributed IDS nodes to collaboratively detect cyber attacks and securely record alerts on an immutable blockchain.
 
